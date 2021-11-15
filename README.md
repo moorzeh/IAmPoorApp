@@ -1,6 +1,6 @@
 # i_am_poor
 
-My first app
+My first app that I created during following a course on udemy, its a spinoff of the I Am Rich app that was created back in 2008 and was priced @ $999.99 to show off you were rich.
 
 ## Getting Started
 
